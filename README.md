@@ -1,5 +1,7 @@
 # HeadFlock
 
+![Screenshot of the HeadFlock art piece](/capture.png)
+
 ## Piece Description
 
 An interactive art piece with flocking agents and camera interaction.
