@@ -8,7 +8,7 @@ My idea was to have agents flocking about a screen and create a distortion in th
 
 ## Technology
 
-- Motion detection using ml5.js
+- Motion detection with ml5.js
 - Canvas created with ps5.js
 
 ## Reflection
